@@ -1,11 +1,14 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:astro-ph.SR'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        disk: 3
+        disc: 3
+        planet: 3
+        formation: 3
+        envelope: 1
+        outflow: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
